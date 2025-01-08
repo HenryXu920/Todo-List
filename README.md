@@ -1,4 +1,4 @@
 # Todo-List
 Build a todo list from scratch with HTML/CSS, JS, React, Node
 
-web frame: https://henryxu920.github.io/Todo-List
+web frame: https://henryxu920.github.io/Todo-List/HTML&CSS/index.html
